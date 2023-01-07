@@ -4,7 +4,7 @@
 
 Welcome to the ChallengeGov Data Portal
 
-## Requirements
+## Requirements  
 
 - [PostgreSQL 10](https://www.postgresql.org/) - database
 - [Elixir 1.9](https://elixir-lang.org) - server language
